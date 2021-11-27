@@ -39,37 +39,49 @@ Download ISO Installer windows server 2022
 
 ![VDI 50GB](https://user-images.githubusercontent.com/95138486/143690182-4b5c9041-a671-46f6-83c1-ccc4967a263e.png)
 
-![MASUKAN ISO](https://user-images.githubusercontent.com/95138486/143690294-b730e50e-803a-4305-936a-0a8b46955e7e.png)
-
-
-
-
 -  Click on `Start` and select the `ISO downloaded`
 
-
+![MASUKAN ISO](https://user-images.githubusercontent.com/95138486/143690294-b730e50e-803a-4305-936a-0a8b46955e7e.png)
 
 -  Click on `Start` and the Windows Server 2022 installation wizard will load
 
+![MASUK MICROSOFT](https://user-images.githubusercontent.com/95138486/143690374-e4786ed4-de74-4664-9fd2-b8697832ae42.png)
 
 -  Click on `Install now`
 
+![INSTALL](https://user-images.githubusercontent.com/95138486/143690416-7f61be48-8e57-47e9-898f-1b0c0bcf98cf.png)
+
 - Select windows server 2022 desktop experience
+
+![OPERATING SYSTEM](https://user-images.githubusercontent.com/95138486/143690446-be6428e6-7d9e-40a3-878a-6978ce62f190.png)
 
 - Accept the license and then proceed with the installation of Windows Server 2022
 
+![LISESNI](https://user-images.githubusercontent.com/95138486/143690463-ad853c4d-c686-4331-8ca6-1fe3f3640a29.png)
+
 - Select windows server 2022 install microsoft server advanced (Custom)
+
+![TYPE INSTALLATION](https://user-images.githubusercontent.com/95138486/143690502-0e013084-1842-418d-b585-afb601c364e2.png)
 
 - Location installation of windows server 2022
 
+![PARTISI](https://user-images.githubusercontent.com/95138486/143690514-e54f7250-05c9-4d13-a282-7c61a5433084.png)
+
 - installation progress
+
+![PROSES INSTALASI](https://user-images.githubusercontent.com/95138486/143690528-3bd9c79e-de60-4192-ae9c-9be675a47549.png)
 
 - The system will reboot to complete the process
 
-- Next, custom your password administrator
+![BOOTING WINDOWS](https://user-images.githubusercontent.com/95138486/143690553-8e32d25d-b328-4463-8b08-22d3e565cab5.png)
 
 - Access the menu `Input – Keyboard – Insert Ctrl + Alt + Del`. Enter the password created and wait for the configuration to load
 
+![TAMPILAN AWAL](https://user-images.githubusercontent.com/95138486/143690631-d3112114-e833-44e9-a230-95775856c963.png)
+
 - Windows Server 2022 has been successfully installed
+
+![TAMPILAN AWAL WINDOWS](https://user-images.githubusercontent.com/95138486/143690567-555736e7-577e-4c95-af00-55aa65f9e470.png)
 
 
 ### B. Instalasi Active Directory Domain Services
