@@ -83,17 +83,28 @@ Download ISO Installer windows server 2022
 
 ![TAMPILAN AWAL WINDOWS](https://user-images.githubusercontent.com/95138486/143690567-555736e7-577e-4c95-af00-55aa65f9e470.png)
 
+![WINDOWS SERVER SPECIFIATION](https://user-images.githubusercontent.com/95138486/143690699-d5ca2f1c-1612-49f5-849d-7c2fe2943a3a.png)
+
 
 ### B. Instalasi Active Directory Domain Services
 -  Before doing the installation, we change the computer name first by going to windows powershell.
    Then type `rename-computer -Newname Server2022`
       - Open the start menu and select `Windows PowerShell`
+![OPEN MENU START AND SELECT](https://user-images.githubusercontent.com/95138486/143690779-0757bcbd-9cb1-4c96-8c15-35bb56a35f49.png)
+   
+   ![WINDOWS POWERSHELL](https://user-images.githubusercontent.com/95138486/143690811-44479ceb-ea37-4faa-8b96-598d3c962978.png)
    
       - Then Restart, and open`Server Manager` 
+      
+      ![SERVER MANAGER](https://user-images.githubusercontent.com/95138486/143690840-9cc6a54e-72cc-4689-a54b-436198ac8545.png)
    
       - Select Menu `manage`, Then `Add Rules and Features` 
+      
+      ![SELECT MENU MANAGE](https://user-images.githubusercontent.com/95138486/143690881-5a836408-0b9e-48d1-9243-b780d61eb614.png)
    
       - Select Next
+      
+      
    
       - Select option`Role-based or feature-based installation`. And `Next`
   
