@@ -19,15 +19,19 @@ Download ISO Installer windows server 2022
    <img width="874" alt="cccc" src="https://user-images.githubusercontent.com/92350603/143621513-6da949ad-311d-4c4b-af20-f8dc3031a9e4.PNG">
 
 - Then open `Oracle VM`
+
+![OPEN VB](https://user-images.githubusercontent.com/95138486/143688065-ece9dd66-309b-4f96-be26-922abba558c4.png)
   
 - Next Klik `New`, and do it like the picture below :
   
   Enter the name of the machine and type of system to use
+  
+  ![2](https://user-images.githubusercontent.com/95138486/143688435-7c7ef7c6-2c09-4bba-8c60-44b0e1844105.png)
 
 
 - Define ram, create the disk defining type and size
 
-
+![3](https://user-images.githubusercontent.com/95138486/143688457-d0e746d6-90c2-443c-8685-720ec0359f4b.png)
 
 - Go to the machine configuration and in the `Network` section set `Bridge adapter`
 
