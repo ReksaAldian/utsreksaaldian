@@ -33,9 +33,19 @@ Download ISO Installer windows server 2022
 
 ![3](https://user-images.githubusercontent.com/95138486/143688457-d0e746d6-90c2-443c-8685-720ec0359f4b.png)
 
-- Go to the machine configuration and in the `Network` section set `Bridge adapter`
+![4](https://user-images.githubusercontent.com/95138486/143690117-1d37dd73-c0ce-4cc0-995a-a6c8d79439c4.png)
+
+![VDI](https://user-images.githubusercontent.com/95138486/143690173-1bcef34f-50b8-4a86-a54d-cc826b2f3b54.png)
+
+![VDI 50GB](https://user-images.githubusercontent.com/95138486/143690182-4b5c9041-a671-46f6-83c1-ccc4967a263e.png)
+
+![MASUKAN ISO](https://user-images.githubusercontent.com/95138486/143690294-b730e50e-803a-4305-936a-0a8b46955e7e.png)
+
+
+
 
 -  Click on `Start` and select the `ISO downloaded`
+
 
 
 -  Click on `Start` and the Windows Server 2022 installation wizard will load
