@@ -104,32 +104,54 @@ Download ISO Installer windows server 2022
    
       - Select Next
       
-      
+      ![SELECT NEXT SETELAH MENU MANAGE](https://user-images.githubusercontent.com/95138486/143725766-f603bbd1-b184-4fc5-af16-e096b4e92b98.png)
    
       - Select option`Role-based or feature-based installation`. And `Next`
+      
+      ![SELECT OPTION ROLE BASED](https://user-images.githubusercontent.com/95138486/143725782-82651090-739e-4950-81ce-005f90953210.png)
   
       - Click `Select a server from the server pool` to select a local storage directory. Then `Next`
+      
+      ![SERVER POOL](https://user-images.githubusercontent.com/95138486/143725792-25613d79-e575-43e1-80ad-be5c30a6ac2b.png)
    
       - Next, put a check mark in the `Active Directory Domain Services` box. When you check the box, on the right appears 
         a brief description of ADDS and how it works. Then click `Add Features`.
    
-   
+      ![ACTIVE DIRECTORY DOMAIN SERVICES](https://user-images.githubusercontent.com/95138486/143725813-6e28ffd1-a4f3-47da-8432-7d145630ec9b.png)
    
 ### C. Instalasi DNS server
    - We need to install and configure the Active Directory role and DNS server to work together.
      Checklist `DNS Servers` then `add features` 
    
+   ![INSTALLASI DNS SERVER](https://user-images.githubusercontent.com/95138486/143725839-a077ec41-b770-4fe5-b305-a7304bb40b4b.png)
+   
+   ![INSTALLASI DNS SERVER NEXT](https://user-images.githubusercontent.com/95138486/143725833-d524cfc0-7c00-4394-90f5-a9cb28126eac.png)
+   
+   
 
 ### D. Instalasi Net Framework 3.5
    - Checklist `.NET Framework 3.5 features`
+   
+   ![INSTALLASI NETFRAMWORK](https://user-images.githubusercontent.com/95138486/143725849-841b8bbf-9910-4013-a91e-11be14ee4c3c.png)
   
    - Click `Next`
+
+    
+   ![NEXT NETFRAMEWORK](https://user-images.githubusercontent.com/95138486/143725929-5db8a369-e8ab-435a-a2e3-f6d744284c9f.png)
+
   
    - Click `Next`again
-  
+   
+   ![NEXT FRAMEWORK AGAIN](https://user-images.githubusercontent.com/95138486/143725932-b2e040ee-7d82-4c0c-b709-1576b1ec17e2.png)
+   
    - Select `Install`
+
+   ![INSTALLASI PROGRES FRAMEWORK](https://user-images.githubusercontent.com/95138486/143725982-cc1820a9-054d-49e5-8d32-45c2c860f4a0.png)
  
    - And Success `Yeahhh`
+
+   
+   ![HASIL INSTALLASI NETFRAME](https://user-images.githubusercontent.com/95138486/143725943-01511bdc-460c-4711-b5cd-94ecb0012ab1.png)
  
 
 ### E. Promote Server to a Domain Controller
